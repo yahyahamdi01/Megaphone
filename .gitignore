@@ -1,0 +1,10 @@
+# Editor files
+.vscode/
+.ccls
+.ccls-cache/
+.projectile
+
+# Build artifacts
+build/
+client
+serveur
